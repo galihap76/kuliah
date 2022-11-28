@@ -96,7 +96,7 @@ class Author:
                 # dan hentikan program
                   sys.exit()
 
-            # tampikan data author ketika bernama Galih Anggoro Prasetya dan NIM 22205018
+            # tampilkan data author ketika bernama Galih Anggoro Prasetya dan NIM 22205018
               else:
                   print(40*"=")
                   print(f"""Nama author : {nama_author}
