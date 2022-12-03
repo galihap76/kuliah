@@ -1,0 +1,1 @@
+Menyimpan UTS IMK.
